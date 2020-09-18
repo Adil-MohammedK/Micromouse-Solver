@@ -1,0 +1,12 @@
+right motor
+
+ENB->10
+IN4->9
+IN3->8
+
+left motor
+
+ENA->11
+IN1->12
+IN2->7
+
